@@ -150,3 +150,7 @@ This project is not about judging games harshly —
 it's about **understanding what makes games succeed or fail**.
 
 ---
+# Well Here are the List of Games
+
+1. [Minecraft (Z-Tier)](https://github.com/Raeonix-J/Z-Tier/tree/Minecraft)
+2. [Ori and the Blind Forest (Z-Tier)](https://github.com/Raeonix-J/Z-Tier/tree/Ori-and-the-Blind-Forest)
