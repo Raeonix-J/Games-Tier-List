@@ -161,24 +161,25 @@ it's about **understanding what makes games succeed or fail**.
 ### S-Tier
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
-| 3.   | [Dragon's Dogma: Dark Arisen](https://github.com/Raeonix-J/S-Tier/tree/Dragon's-Dogma-Dark-Arisen)  | S-Tier  |
-| 4.   | [Trine 2: The Complete Story](https://github.com/Raeonix-J/S-Tier/tree/Trine-2-The-Complete-Story)  | S-Tier  |
+| 1.   | [Dragon's Dogma: Dark Arisen](https://github.com/Raeonix-J/S-Tier/tree/Dragon's-Dogma-Dark-Arisen)  | S-Tier  |
+| 2.   | [Trine 2: The Complete Story](https://github.com/Raeonix-J/S-Tier/tree/Trine-2-The-Complete-Story)  | S-Tier  |
 
 ### A-Tier
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
-| 5.   | [Assassin's Creed Chronicles](https://github.com/Raeonix-J/A-Tier/tree/Assassin's-Creed-Chronicles)  | A-Tier  |
-| 6.   | [Trine: Enchanted Edition](https://github.com/Raeonix-J/A-Tier/tree/Trine-Enchanted-Edition)  | A-Tier  |
-| 7.   | [Trackmania Turbo](https://github.com/Raeonix-J/A-Tier/tree/Trackmania-Turbo)  | A-Tier  |
-| 8.   | [Ryse: Son of Rome](https://github.com/Raeonix-J/A-Tier/tree/Ryse-Son-of-Rome)  | A-Tier  |
-| 9.   | [Remnant from the Ashes](https://github.com/Raeonix-J/A-Tier/tree/Remnant-from-the-Ashes)  | A-Tier  |
-| 10.  | [Danganronpa: Happy Havoc](https://github.com/Raeonix-J/A-Tier/tree/Danganronpa-Happy-Havoc)  | A-Tier  |
+| 1.   | [Assassin's Creed Chronicles](https://github.com/Raeonix-J/A-Tier/tree/Assassin's-Creed-Chronicles)  | A-Tier  |
+| 2.   | [Trine: Enchanted Edition](https://github.com/Raeonix-J/A-Tier/tree/Trine-Enchanted-Edition)  | A-Tier  |
+| 3.   | [Trackmania Turbo](https://github.com/Raeonix-J/A-Tier/tree/Trackmania-Turbo)  | A-Tier  |
+| 4.   | [Ryse: Son of Rome](https://github.com/Raeonix-J/A-Tier/tree/Ryse-Son-of-Rome)  | A-Tier  |
+| 5.   | [Remnant from the Ashes](https://github.com/Raeonix-J/A-Tier/tree/Remnant-from-the-Ashes)  | A-Tier  |
+| 6.  | [Danganronpa: Happy Havoc](https://github.com/Raeonix-J/A-Tier/tree/Danganronpa-Happy-Havoc)  | A-Tier  |
 
 ### B-Tier
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
-| 11.  | [Trine 3: The Artifact of Power](https://github.com/Raeonix-J/B-Tier/tree/Trine-3-The-Artifact-of-Power)  | B-Tier  |
-| 12.  | [Everybody's Gone to the Rapture](https://github.com/Raeonix-J/B-Tier/blob/Everybody's-Gone-to-the-Rapture)  | B-Tier  |
+| 1.  | [Trine 3: The Artifact of Power](https://github.com/Raeonix-J/B-Tier/tree/Trine-3-The-Artifact-of-Power)  | B-Tier  |
+| 2.  | [Everybody's Gone to the Rapture](https://github.com/Raeonix-J/B-Tier/blob/Everybody's-Gone-to-the-Rapture)  | B-Tier  |
+| 3.   | [Table Top Racing - World Tour](https://github.com/Raeonix-J/B-Tier/tree/Table-Top-Racing---World-Tour)  | B-Tier  |
 
 ### C-Tier
 | Number   |   Games  |   Tier   |
