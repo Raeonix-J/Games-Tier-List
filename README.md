@@ -152,7 +152,42 @@ it's about **understanding what makes games succeed or fail**.
 ---
 # Well Here are the List of Games
 
-1. [Minecraft (Z-Tier)](https://github.com/Raeonix-J/Z-Tier/tree/Minecraft)
-2. [Ori and the Blind Forest (Z-Tier)](https://github.com/Raeonix-J/Z-Tier/tree/Ori-and-the-Blind-Forest)
-3. [Dragon's Dogma: Dark Arisen (S-Tier)](https://github.com/Raeonix-J/S-Tier/tree/Dragon's-Dogma-Dark-Arisen)
-4. [Trine 2: The Complete Story (S-Tier)](https://github.com/Raeonix-J/S-Tier/tree/Trine-2-The-Complete-Story)
+### Z-Tier
+| Number   |   Games  |   Tier   |
+|----------|----------|----------|
+| 1.   | [Minecraft](https://github.com/Raeonix-J/Z-Tier/tree/Minecraft)   | Z-Tier   |
+| 2.   | [Ori and the Blind Forest](https://github.com/Raeonix-J/Z-Tier/tree/Ori-and-the-Blind-Forest)   | Z-Tier   |
+
+### S-Tier
+| Number   |   Games  |   Tier   |
+|----------|----------|----------|
+| 3.   | [Dragon's Dogma: Dark Arisen](https://github.com/Raeonix-J/S-Tier/tree/Dragon's-Dogma-Dark-Arisen)  | S-Tier  |
+| 4.   | [Trine 2: The Complete Story](https://github.com/Raeonix-J/S-Tier/tree/Trine-2-The-Complete-Story)  | S-Tier  |
+
+### A-Tier
+| Number   |   Games  |   Tier   |
+|----------|----------|----------|
+| 5.   | [Assassin's Creed Chronicles](https://github.com/Raeonix-J/A-Tier/tree/Assassin's-Creed-Chronicles)  | A-Tier  |
+| 6.   | [Trine: Enchanted Edition](https://github.com/Raeonix-J/A-Tier/tree/Trine-Enchanted-Edition)  | A-Tier  |
+| 7.   | [Trackmania Turbo](https://github.com/Raeonix-J/A-Tier/tree/Trackmania-Turbo)  | A-Tier  |
+| 8.   | [Ryse: Son of Rome](https://github.com/Raeonix-J/A-Tier/tree/Ryse-Son-of-Rome)  | A-Tier  |
+| 9.   | [Remnant from the Ashes](https://github.com/Raeonix-J/A-Tier/tree/Remnant-from-the-Ashes)  | A-Tier  |
+| 10.  | [Danganronpa: Happy Havoc](https://github.com/Raeonix-J/A-Tier/tree/Danganronpa-Happy-Havoc)  | A-Tier  |
+
+### B-Tier
+| Number   |   Games  |   Tier   |
+|----------|----------|----------|
+| 11.  | [Trine 3: The Artifact of Power](https://github.com/Raeonix-J/B-Tier/tree/Trine-3-The-Artifact-of-Power)  | B-Tier  |
+| 12.  | [Everybody's Gone to the Rapture](https://github.com/Raeonix-J/B-Tier/blob/Everybody's-Gone-to-the-Rapture)  | B-Tier  |
+
+### C-Tier
+| Number   |   Games  |   Tier   |
+|----------|----------|----------|
+
+### E-Tier
+| Number   |   Games  |   Tier   |
+|----------|----------|----------|
+
+### F-Tier
+| Number   |   Games  |   Tier   |
+|----------|----------|----------|
