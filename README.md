@@ -154,3 +154,5 @@ it's about **understanding what makes games succeed or fail**.
 
 1. [Minecraft (Z-Tier)](https://github.com/Raeonix-J/Z-Tier/tree/Minecraft)
 2. [Ori and the Blind Forest (Z-Tier)](https://github.com/Raeonix-J/Z-Tier/tree/Ori-and-the-Blind-Forest)
+3. [Dragon's Dogma: Dark Arisen (S-Tier)](https://github.com/Raeonix-J/S-Tier/tree/Dragon's-Dogma-Dark-Arisen)
+4. [Trine 2: The Complete Story (S-Tier)](https://github.com/Raeonix-J/S-Tier/tree/Trine-2-The-Complete-Story)
