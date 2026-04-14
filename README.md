@@ -163,6 +163,8 @@ it's about **understanding what makes games succeed or fail**.
 |----------|----------|----------|
 | 1.   | [Dragon's Dogma: Dark Arisen](https://github.com/Raeonix-J/S-Tier/tree/Dragon's-Dogma-Dark-Arisen)  | S-Tier  |
 | 2.   | [Trine 2: The Complete Story](https://github.com/Raeonix-J/S-Tier/tree/Trine-2-The-Complete-Story)  | S-Tier  |
+| 3.  | [Danganronpa 2: Goodbye Despair](https://github.com/Raeonix-J/S-Tier/tree/Danganronpa-2-Goodbye-Despair)  | S-Tier  |
+| 4.  | [Mirror's Edge (2008)](https://github.com/Raeonix-J/S-Tier/tree/Mirror's-Edge-(2008))  | S-Tier  |
 
 ### A-Tier
 | Number   |   Games  |   Tier   |
@@ -181,6 +183,7 @@ it's about **understanding what makes games succeed or fail**.
 | 1.  | [Trine 3: The Artifact of Power](https://github.com/Raeonix-J/B-Tier/tree/Trine-3-The-Artifact-of-Power)  | B-Tier  |
 | 2.  | [Everybody's Gone to the Rapture](https://github.com/Raeonix-J/B-Tier/blob/Everybody's-Gone-to-the-Rapture)  | B-Tier  |
 | 3.   | [Table Top Racing - World Tour](https://github.com/Raeonix-J/B-Tier/tree/Table-Top-Racing---World-Tour)  | B-Tier  |
+| 4.  | [Alien VS Predator (2010)](https://github.com/Raeonix-J/B-Tier/tree/Alien-VS-Predator-(2010))  | B-Tier  |
 
 ### C-Tier
 | Number   |   Games  |   Tier   |
