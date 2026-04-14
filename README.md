@@ -173,6 +173,7 @@ it's about **understanding what makes games succeed or fail**.
 | 4.   | [Ryse: Son of Rome](https://github.com/Raeonix-J/A-Tier/tree/Ryse-Son-of-Rome)  | A-Tier  |
 | 5.   | [Remnant from the Ashes](https://github.com/Raeonix-J/A-Tier/tree/Remnant-from-the-Ashes)  | A-Tier  |
 | 6.  | [Danganronpa: Happy Havoc](https://github.com/Raeonix-J/A-Tier/tree/Danganronpa-Happy-Havoc)  | A-Tier  |
+| 7.  | [Warhammer 40000: Space Marine (2011)](https://github.com/Raeonix-J/A-Tier/tree/Warhammer-40000-Space-Marine-(2011))  | A-Tier  |
 
 ### B-Tier
 | Number   |   Games  |   Tier   |
