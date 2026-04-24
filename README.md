@@ -184,6 +184,7 @@ it's about **understanding what makes games succeed or fail**.
 | 2.  | [Everybody's Gone to the Rapture](https://github.com/Raeonix-J/B-Tier/blob/Everybody's-Gone-to-the-Rapture)  | B-Tier  |
 | 3.   | [Table Top Racing - World Tour](https://github.com/Raeonix-J/B-Tier/tree/Table-Top-Racing---World-Tour)  | B-Tier  |
 | 4.  | [Alien VS Predator (2010)](https://github.com/Raeonix-J/B-Tier/tree/Alien-VS-Predator-(2010))  | B-Tier  |
+| 5.  | [Mirror's Edge Catalyst](https://github.com/Raeonix-J/B-Tier/tree/Mirror's-Edge-Catalyst)  | B-Tier  |
 
 ### C-Tier
 | Number   |   Games  |   Tier   |
