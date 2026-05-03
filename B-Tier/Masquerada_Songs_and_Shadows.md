@@ -1,5 +1,4 @@
-# 🎭 Masquerada: Songs and Shadows — Tier List Placement
-
+# 🎭 Masquerada: Songs and Shadows
 ## Tier: **B**
 
 > *A solid, worthwhile experience with genuine strengths — but meaningful flaws that hold it back from greatness.*
