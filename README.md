@@ -186,6 +186,7 @@ it's about **understanding what makes games succeed or fail**.
 | 4.  | [Alien VS Predator (2010)](https://github.com/Raeonix-J/B-Tier/tree/Alien-VS-Predator-(2010))  | B-Tier  |
 | 5.  | [Mirror's Edge Catalyst](https://github.com/Raeonix-J/B-Tier/tree/Mirror's-Edge-Catalyst)  | B-Tier  |
 | 6.  | [Masquerada Songs and Shadows](https://github.com/Raeonix-J/Games-Tier-List/blob/main/B-Tier/Masquerada_Songs_and_Shadows.md)  | B-Tier  |
+| 7.  | [Farming Simulator 17](https://github.com/Raeonix-J/Games-Tier-List/blob/main/B-Tier/Farming_Simulator_17.md)  | B-Tier  |
 
 ### C-Tier
 | Number   |   Games  |   Tier   |
