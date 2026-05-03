@@ -1,4 +1,4 @@
-# 🌲 Through the Woods — Tier List Placement
+# 🌲 Through the Woods
 
 ## Tier: **C**
 
