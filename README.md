@@ -152,7 +152,7 @@ it's about **understanding what makes games succeed or fail**.
 ---
 # Well Here are the List of Games
 
-### Z-Tier
+### [Z-Tier](https://github.com/Raeonix-J/Games-Tier-List/blob/main/Z-Tier/About_Tier.md)
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
 | 1.   | [Minecraft](https://github.com/Raeonix-J/Z-Tier/tree/Minecraft)   | Z-Tier   |
