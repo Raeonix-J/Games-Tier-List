@@ -174,9 +174,3 @@ They don’t need to be.
 _This tier is earned — not given._ 🏆
 
 ---
-
-
-**Well Here are the Games:-**
-
-1. [Dragon's Dogma: Dark Arisen](https://github.com/Raeonix-J/S-Tier/tree/Dragon's-Dogma-Dark-Arisen)
-2. [Trine 2: The Complete Story](https://github.com/Raeonix-J/S-Tier/tree/Trine-2-The-Complete-Story)
