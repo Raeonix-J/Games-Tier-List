@@ -194,7 +194,7 @@ it's about **understanding what makes games succeed or fail**.
 |----------|----------|----------|
 | 1.  | [Through the Woods](https://github.com/Raeonix-J/Games-Tier-List/blob/main/C-Tier/Through_the_Woods.md)  | C-Tier  |
 
-### E-Tier
+### [E-Tier](https://github.com/Raeonix-J/Games-Tier-List/blob/main/E-Tier/About_Tier.md)
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
 
