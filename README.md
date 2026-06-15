@@ -177,7 +177,7 @@ it's about **understanding what makes games succeed or fail**.
 | 6.  | [Danganronpa: Happy Havoc](https://github.com/Raeonix-J/A-Tier/tree/Danganronpa-Happy-Havoc)  | A-Tier  |
 | 7.  | [Warhammer 40000: Space Marine (2011)](https://github.com/Raeonix-J/A-Tier/tree/Warhammer-40000-Space-Marine-(2011))  | A-Tier  |
 
-### B-Tier
+### [B-Tier](https://github.com/Raeonix-J/Games-Tier-List/blob/main/B-Tier/About_Tier.md)
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
 | 1.  | [Trine 3: The Artifact of Power](https://github.com/Raeonix-J/B-Tier/tree/Trine-3-The-Artifact-of-Power)  | B-Tier  |
