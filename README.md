@@ -189,7 +189,7 @@ it's about **understanding what makes games succeed or fail**.
 | 7.  | [Farming Simulator 17](https://github.com/Raeonix-J/Games-Tier-List/blob/main/B-Tier/Farming_Simulator_17.md)  | B-Tier  |
 |8.  | [God Eater Resurrection](https://github.com/Raeonix-J/Games-Tier-List/blob/main/B-Tier/God_Eater_Resurrection.md)  | B-Tier  |
 
-### C-Tier
+### [C-Tier](https://github.com/Raeonix-J/Games-Tier-List/blob/main/C-Tier/About_Tier.md)
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
 | 1.  | [Through the Woods](https://github.com/Raeonix-J/Games-Tier-List/blob/main/C-Tier/Through_the_Woods.md)  | C-Tier  |
