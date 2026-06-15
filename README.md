@@ -198,6 +198,6 @@ it's about **understanding what makes games succeed or fail**.
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
 
-### F-Tier
+### [F-Tier](https://github.com/Raeonix-J/Games-Tier-List/blob/main/F-Tier/About_Tier.md)
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
