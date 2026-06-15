@@ -158,7 +158,7 @@ it's about **understanding what makes games succeed or fail**.
 | 1.   | [Minecraft](https://github.com/Raeonix-J/Z-Tier/tree/Minecraft)   | Z-Tier   |
 | 2.   | [Ori and the Blind Forest](https://github.com/Raeonix-J/Z-Tier/tree/Ori-and-the-Blind-Forest)   | Z-Tier   |
 
-### S-Tier
+### [S-Tier](https://github.com/Raeonix-J/Games-Tier-List/blob/main/S-Tier/About_Tier.md)
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
 | 1.   | [Dragon's Dogma: Dark Arisen](https://github.com/Raeonix-J/S-Tier/tree/Dragon's-Dogma-Dark-Arisen)  | S-Tier  |
