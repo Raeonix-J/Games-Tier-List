@@ -166,7 +166,7 @@ it's about **understanding what makes games succeed or fail**.
 | 3.  | [Danganronpa 2: Goodbye Despair](https://github.com/Raeonix-J/S-Tier/tree/Danganronpa-2-Goodbye-Despair)  | S-Tier  |
 | 4.  | [Mirror's Edge (2008)](https://github.com/Raeonix-J/S-Tier/tree/Mirror's-Edge-(2008))  | S-Tier  |
 
-### A-Tier
+### [A-Tier](https://github.com/Raeonix-J/Games-Tier-List/blob/main/A-Tier/About_Tier.md)
 | Number   |   Games  |   Tier   |
 |----------|----------|----------|
 | 1.   | [Assassin's Creed Chronicles](https://github.com/Raeonix-J/A-Tier/tree/Assassin's-Creed-Chronicles)  | A-Tier  |
